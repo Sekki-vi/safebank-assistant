@@ -225,3 +225,5 @@ cdk.out/
 .terraform/
 *.tfstate*
 mlruns/
+tmp/
+data/
