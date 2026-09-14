@@ -219,5 +219,9 @@ __marimo__/
 
 # Other
 seed_data.json
+*.pem
+.aws/
 cdk.out/
 .terraform/
+*.tfstate*
+mlruns/
